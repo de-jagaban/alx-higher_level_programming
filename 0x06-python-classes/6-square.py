@@ -1,5 +1,5 @@
-i#!/usr/bin/python3
-# 6-square.py
+#!/usr/bin/python3
+# 6-square.p    y
 """Define a class Square."""
 
 
